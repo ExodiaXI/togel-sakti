@@ -1,13 +1,13 @@
 {
   "name": "togel-sakti",
-  "theme": "syntax",
+  "theme": "Togelsakti4D",
   "version": "0.0.0",
-  "description": "A short description of your syntax theme",
+  "description": "Situs Betting Online Resmi Terpercaya Togelsakti4D",
   "keywords": [
     "syntax",
     "theme"
   ],
-  "repository": "https://github.com/atom/togel-sakti",
+  "repository": "https://github.com/ExodiaXI/togel-sakti",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
